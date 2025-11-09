@@ -2,6 +2,12 @@ import React from "react";
 
 const experienceContent = [
   {
+    year: "Sep 2025 - Present · 3 mos",
+    position: "DevOps Engineer | System Administrator",
+    compnayName: "XPER WEB PLUS · Full-time",
+    details: `Hammamet, Nabeul, Tunisia · On-site. Manage self-hosted GitLab and Plesk VPS for dev environment and staging/pre-production. Perform security audits, create pipelines. Recently created a microservice for security scans where files are sent, scanned, and sanitized (PDF, images).`,
+  },
+  {
     year: "01/2024 – 07/2024",
     position: "Engineer Intern",
     compnayName: "Orange Tunisie",

@@ -5,7 +5,7 @@ const Address = () => {
     <>
       <p className="open-sans-font custom-span-contact position-relative">
         <i className="fa fa-map position-absolute"></i>
-        <span className="d-block">Address Point</span> Cité El Ghazala, Ariana.
+        <span className="d-block">Address Point</span> Avenue Des Nevers, Hammamet, Nabeul.
       </p>
       {/* End .custom-span-contact */}
 
