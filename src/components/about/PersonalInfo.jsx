@@ -37,7 +37,7 @@ const PersonalInfo = () => {
                     cursor: 'pointer'
                   }}>F</span>
                 </a>
-                <a href="https://www.upwork.com/freelancers/~01ddde67df04cc344e" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.upwork.com/freelancers/~010fa0fd291ce53619" target="_blank" rel="noopener noreferrer">
                   <span style={{
                     display: 'inline-block',
                     backgroundColor: '#14a800',
